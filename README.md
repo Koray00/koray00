@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## İ am currently learning how to use GİTHUB and how to be creative with it ⚡ 
 <!--
 **Koray00/Koray00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
